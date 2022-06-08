@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YangchenYe323
-- 💻 I'm now an Intern at [Alluxio](https://github.com/Alluxio)
+- 💻 I'm now an Intern at [Alluxio, Inc](https://github.com/Alluxio)
 - 👀 I'm an incoming student at University of Illinois, Urbana-Champaign's MCS program
 - 🌱 My general interests lie in Database Internals, Web Applications and Algorithms. Check out my implementation of talent-plan courses: [PNA Rust](https://github.com/YangchenYe323/PNA-Rust)
 
