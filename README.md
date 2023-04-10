@@ -1,3 +1,1 @@
-<picture>
-  <img src="metrics.svg" alt="Metrics">
-</picture>
+![Metrics](https://github.com/YangchenYe323/YangchenYe323/blob/main/metrics.svg)
