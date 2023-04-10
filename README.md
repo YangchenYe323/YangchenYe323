@@ -1,1 +1,1 @@
-![Metrics](https://github.com/YangchenYe323/YangchenYe323/blob/main/metrics.svg)
+![Metrics](github-metrics.svg)
